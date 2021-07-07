@@ -1,0 +1,8 @@
+body {
+  background-color: salmon;
+  -webkit-font-smoothing: antialiased;
+}
+
+.hide {
+  display: none !important;
+}
